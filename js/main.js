@@ -23,3 +23,15 @@ $(function () {
   
     });
   });
+
+// mobile menu
+$(function () {
+  $('#toggle-btn').click(function () {
+    // $('#gnb').css('display','block');
+    $('#menu').slideDown();
+  });
+  $('.gnb-close').click(function () {
+    // $('#gnb').css('display','none');
+    $('#menu').slideUp();
+  });
+});
