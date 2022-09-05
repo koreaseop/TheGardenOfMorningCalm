@@ -102,14 +102,14 @@
 }
 
 .experience:nth-child(1) .img{
-    background-image: url(../images/img1.png);
+    background-image: url(../images/img1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .experience:nth-child(2) .img {
-    background-image: url(../images/img2.png);
+    background-image: url(../images/img2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -146,12 +146,12 @@
 
 #main-info .container .info_img:nth-child(1) {
    width: 50%;
-   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/info1.png);
+   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/info1.jpg);
 }
 
 #main-info .container .info_img:nth-child(2) {
      width: 50%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/info2.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/info2.jpg);
 }
 
 #main-info .container .info_img a {
